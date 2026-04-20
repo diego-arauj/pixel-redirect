@@ -1,0 +1,5 @@
+window.CONFIG = {
+  SUPABASE_URL: "https://karohkskliddnzmufjag.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imthcm9oa3NrbGlkZG56bXVmamFnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY2NjM0NjUsImV4cCI6MjA5MjIzOTQ2NX0.ce6mwGSZ7-ETVvzbSHs47vSX_WxmYurDg-pBpT1CUAE",
+  META_PIXEL_ID: "964597992586166"
+};
