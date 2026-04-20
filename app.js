@@ -280,3 +280,4 @@ async function run() {
 run().catch((error) => {
   console.log("Falha no fluxo de redirecionamento:", error);
 });
+ 
